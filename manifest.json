@@ -1,0 +1,25 @@
+{
+  "name": "NutriTrack",
+  "short_name": "NutriTrack",
+  "description": "Know what your body actually needs — personalized BMI, 50+ nutrients, AI diagnosis, 7-day meal plan.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EDEAE1",
+  "theme_color": "#3A7D60",
+  "orientation": "portrait-primary",
+  "categories": ["health", "fitness", "food"],
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
